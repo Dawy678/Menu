@@ -1,22 +1,3 @@
-.btn-group .button {
-    background-color: #4CAF50;
-    border: 1px solid green;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    cursor: pointer;
-  }
-  
-  .btn-group .button:not(:last-child) {
-    border-right: none; 
-  }
-  
-  .btn-group .button:hover {
-    background-color: #3e8e41;
-  }
   .grid-container {
     display: grid;
     grid-template-columns: auto;
