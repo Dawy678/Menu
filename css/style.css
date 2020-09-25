@@ -44,3 +44,8 @@
     grid-template-columns: auto auto;
     background-color: #c0c0c0a2;
   }
+  .nav {
+    position: fixed;
+    top: 0;
+    z-index: 5;
+  }
